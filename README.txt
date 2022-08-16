@@ -1,6 +1,6 @@
-This folder and its subfolders contain the code and data required to reproduce the figures that illustrate data and results in the manuscript by Petousakis et al., 2022.
+This repository and the folders therein contain the code and data required to reproduce the figures that illustrate data and results in the manuscript by Petousakis et al., 2022.
 
-The reproduction of the figures requires Anaconda Python to be installed on the system, and the folder to be downloaded (size approx. 800 MB unpacked).
+The reproduction of the figures requires Anaconda Python to be installed on the system, and the repository files to be downloaded.
 Anaconda Python can be found and downloaded from the following URL:  https://www.anaconda.com/products/distribution
 
 Once Anaconda Python is installed on the system:
